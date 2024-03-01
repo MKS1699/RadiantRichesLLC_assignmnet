@@ -12,7 +12,7 @@ const TitleNavBar = () => {
         Website Builders
       </Link>
       <Link href={"#"} className="self-center justify-self-center w-full p-1">
-        Today's Deals
+        Today&apos;s Deals
       </Link>
     </nav>
   );
